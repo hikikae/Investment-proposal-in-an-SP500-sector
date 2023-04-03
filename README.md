@@ -27,6 +27,23 @@ Me centro en los últimos veintitrés años donde hemos tenido varios sucesos qu
 Comenzando el proceso EDA realicé la extracción de los datos financieros através de la libreria de yfinance, una vez teniendo los históricos de 23 años, se eliminarón duplicados, revisión de nulos, y de outliers. 
 
 ## Dashboard
+El tablero de Power BI es el siguiente, en la primera imagen podemos notar el comportamiento del SP500 durante los años.
+
+<img width= "70%" src="https://github.com/hikikae/Investment-proposal-in-an-SP500-sector/blob/main/images/pagina1.png"> <br>
+
+Aqui se muestra como se comportan cada sector que compone el sp500.
+
+<img width= "70%" src="https://github.com/hikikae/Investment-proposal-in-an-SP500-sector/blob/main/images/pagina2.png"> <br>
+
+En la imagen anterior vimos que hay tres sectores que tienen un mejor rendimiento, por lo que se analizó a detalle en cuanto a la propuesta de inversion de forma pasiva.
+
+<img width= "70%" src="https://github.com/hikikae/Investment-proposal-in-an-SP500-sector/blob/main/images/pagina3.png"><br>
+
+Por ultimo se muestran empresas que cumplen con el objetivo de invertir sin llevar demasiado riesgo. 
+
+<img width= "70%" src="https://github.com/hikikae/Investment-proposal-in-an-SP500-sector/blob/main/images/pagina4.png"><br>
+
+
 
 ## Propuesta de Inversión
 ¿Cómo sabemos en que empresa invertir?
